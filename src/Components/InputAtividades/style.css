@@ -1,0 +1,24 @@
+
+  .input-atividade{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .input-atividade input{
+    width: 50%;
+    padding: 0.5rem;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    border: none;
+    background-color: rgb(203, 202, 202);
+  }
+  .botao{
+    width: 50%;
+    padding: 0.5rem;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    border: none;
+    background-color: royalblue;
+    color: aliceblue;
+  }

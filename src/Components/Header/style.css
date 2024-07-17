@@ -1,0 +1,28 @@
+header{
+    background-color: royalblue;
+    padding: 20px 0;
+  
+  }
+  
+  .content {
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+    max-width: 80%;
+    margin: 0 auto;
+  }
+  
+  
+  .links {
+    display: flex;
+    justify-content: space-between;
+    max-width: 100%;
+    gap: 40px;
+  }
+  
+  .link {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-family: 'Lobster', cursive;
+  }

@@ -1,0 +1,37 @@
+.cardAtividade{
+    background-color: rgb(236, 236, 236);
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    width: 800px;
+    align-items: center;
+    margin: 0 auto;
+  }
+  .tituloAtividade{
+    font-size: 24px;
+    text-align: center;
+  }
+  .reservas-realizada{
+    align-items: center;
+  }
+  .botao-excluir{
+    background-color: red;
+    color: aliceblue;
+    padding: 0.3rem;
+    border: none;
+    border-radius: 5px;
+  }
+  .reserva-atividade{
+    display: flex;
+    justify-content:space-between;
+    background-color: rgb(203, 202, 202);
+    max-width: 100%;
+    width: 600px;
+    border-radius: 5px;
+    padding: 1rem;
+    margin-bottom: 20px;
+  }
+  ul{
+    
+    padding: 0;
+  }

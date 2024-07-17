@@ -1,0 +1,26 @@
+.cardsembotao{
+  background-color: rgb(236, 236, 236);
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+  width: 800px;
+  align-items: center;
+  margin: 0 auto;
+}
+.tituloreserva{
+  font-size: 24px;
+  text-align: center;
+}
+.reserva{
+  display: flex;
+    justify-content:space-between;
+    background-color: rgb(203, 202, 202);
+    max-width: 100%;
+    width: 600px;
+    border-radius: 5px;
+    padding: 1rem;
+    margin-bottom: 20px;
+}
+.reservas{
+  align-items: center;
+}
